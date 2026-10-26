@@ -6,19 +6,15 @@ namespace A21_GabIoaIo2627
 {
     public class Funciones
     {
-        public static int CalcularFactorial(int n)
+        public static int CalcularFactorial(int num)
         {
             int result = 1;
 
-            if (n < 0)
-            {
+            if (num < 0)
                 result = -1;
-            }
 
-            for(int i = 1; i <= n; i++)
-            {
-                result = result * i;
-            }
+            for (int i = 1; i <= num; i++)
+                result *= i;
 
             return result;
         }
