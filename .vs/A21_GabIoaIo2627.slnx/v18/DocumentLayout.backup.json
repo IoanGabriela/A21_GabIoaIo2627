@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 26-27\\Proyecto intermodular II\\PF02. Pruebas de software \u002B TDD\\A21_GabIoaIo2627\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2998A19D-CFBF-20A5-C9C7-5DBE53CB2CE3}|TestA21_GabIoaIo2627\\TestA21_GabIoaIo2627.csproj|c:\\users\\usuario\\onedrive - conselleria d\u0027educaci\u00F3\\daw 26-27\\proyecto intermodular ii\\pf02. pruebas de software \u002B tdd\\a21_gabioaio2627\\testa21_gabioaio2627\\funcionestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2998A19D-CFBF-20A5-C9C7-5DBE53CB2CE3}|TestA21_GabIoaIo2627\\TestA21_GabIoaIo2627.csproj|solutionrelative:testa21_gabioaio2627\\funcionestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91A8A5F-F68D-E06E-617C-A3DC69ED765D}|A21_GabIoaIo2627\\A21_GabIoaIo2627.csproj|c:\\users\\usuario\\onedrive - conselleria d\u0027educaci\u00F3\\daw 26-27\\proyecto intermodular ii\\pf02. pruebas de software \u002B tdd\\a21_gabioaio2627\\a21_gabioaio2627\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91A8A5F-F68D-E06E-617C-A3DC69ED765D}|A21_GabIoaIo2627\\A21_GabIoaIo2627.csproj|solutionrelative:a21_gabioaio2627\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionesTest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 26-27\\Proyecto intermodular II\\PF02. Pruebas de software \u002B TDD\\A21_GabIoaIo2627\\TestA21_GabIoaIo2627\\FuncionesTest.cs",
+              "RelativeDocumentMoniker": "TestA21_GabIoaIo2627\\FuncionesTest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 26-27\\Proyecto intermodular II\\PF02. Pruebas de software \u002B TDD\\A21_GabIoaIo2627\\TestA21_GabIoaIo2627\\FuncionesTest.cs",
+              "RelativeToolTip": "TestA21_GabIoaIo2627\\FuncionesTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T21:14:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 26-27\\Proyecto intermodular II\\PF02. Pruebas de software \u002B TDD\\A21_GabIoaIo2627\\A21_GabIoaIo2627\\Funciones.cs",
+              "RelativeDocumentMoniker": "A21_GabIoaIo2627\\Funciones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 26-27\\Proyecto intermodular II\\PF02. Pruebas de software \u002B TDD\\A21_GabIoaIo2627\\A21_GabIoaIo2627\\Funciones.cs",
+              "RelativeToolTip": "A21_GabIoaIo2627\\Funciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T21:14:00.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
