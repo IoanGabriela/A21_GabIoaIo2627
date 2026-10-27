@@ -18,5 +18,17 @@ namespace TestA21_GabIoaIo2627
             int result = Funciones.CalcularFactorial(n);
             Assert.AreEqual(esperado, result);
         }
+
+        [TestMethod]
+        [DataRow("", false)] //No puede estar vacía
+        [DataRow(null, false)] //No tiene que ser null
+        [DataRow("Termi", false)] //Longitud >= 8 caracteres
+        [DataRow("terminator", false)] //Debe contener #
+        [DataRow("Terminator#", true)] //Válida
+        public void Validar_Contraseña(string contrasenya, bool valida)
+        {
+            bool result = Funciones.EsContrasenyaValida(contrasenya);
+            Assert.AreEqual(valida, result);
+        }
     }
 }
