@@ -18,5 +18,10 @@ namespace A21_GabIoaIo2627
 
             return result;
         }
+
+        public static bool EsContrasenyaValida(string contrasenya)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
