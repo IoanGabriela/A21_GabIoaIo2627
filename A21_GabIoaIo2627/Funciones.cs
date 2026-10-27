@@ -21,7 +21,9 @@ namespace A21_GabIoaIo2627
 
         public static bool EsContrasenyaValida(string contrasenya)
         {
-            throw new NotImplementedException();
+            return !string.IsNullOrEmpty(contrasenya) &&
+                contrasenya.Length >= 8 &&
+                contrasenya.Contains("#");
         }
     }
 }
